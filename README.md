@@ -7,7 +7,7 @@
 
 [Sonic Robo Blast 2](https://srb2.org/) is a 3D Sonic the Hedgehog fangame based on a modified version of [Doom Legacy](http://doomlegacy.sourceforge.net/).
 
-[Fucked](https://I LIED TO YOU YOU DUMB MOTHERFUCKER THIS SHITTY PROJECT DOSENT HAVE A WEBSI.TE/)
+[Fucked](https://I-LIED-TO-YOU-YOU-DUMB-MOTHERFUCKER-THIS-SHITTY-PROJECT-DOSENT-HAVE-A-WEBSI.TE/)
 
 ## Dependencies
 - NASM (x86 builds only)
